@@ -1,0 +1,13 @@
+
+
+let chris = "Chris Hemsworth";
+
+const printScripts = function() {
+  let chris = "The PA";
+  console.log("Who is Chris? Chris is ", chris);
+};
+
+console.log("Who is Chris? Chris is ", chris);
+printScripts();
+console.log("Who is Chris? Chris is ", chris);
+
